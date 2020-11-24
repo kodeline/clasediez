@@ -1,0 +1,36 @@
+body{
+background-color:lightblue 
+}
+
+nav
+{
+background-color: rgb(53, 47, 47);
+margin: 40px;
+
+ }
+ a{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    height: 50px;
+    margin: auto;
+    width: 150px;
+ }
+
+.verde:hover {background-color:greenyellow }
+.verde:active{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+color: black;
+}
+
+ .amarillo:hover{background-color: yellow;}
+.amarillo:active{background-color: black;}
+.rojo:hover{background-color: red;}
+.rojo:active{color: red;
+background-color: rgb(53, 47, 47);}
+
+.azul:hover{background-color: blue;}
+.azul:active{font-size: 32px;
+height:150px;}
